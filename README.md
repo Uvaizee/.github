@@ -10,7 +10,7 @@
 - 🔍 Passionate about applying machine learning to real-world data problems  
 - 📊 Interested in data analysis, model building, and intelligent systems  
 - 💡 Always exploring new tools, improving my skills, and growing as a developer
-- 👨‍💻 All of my projects are available at [https://github.com/Uvaizee](https://github.com/Uvaizee)
+
 
 
 ### 🤝 Connect With Me
